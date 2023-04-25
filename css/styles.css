@@ -276,3 +276,29 @@ body {
     font-weight: 600;
     height: 6rem;
 }
+
+.footer {
+    background-color: #ccdeeb;
+}
+
+h4 {
+    color: dodgerblue;
+    font-size: 3.2rem;
+    text-align: center;
+    padding-top: 6rem;
+    margin-bottom: 2rem;
+}
+
+.hours {
+    color: dodgerblue;
+    font-size: 2.8rem;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+.disclaimer {
+    text-align: center;
+    font-size: 1.6rem;
+    color: orangered;
+    padding-bottom: 2rem;
+}
