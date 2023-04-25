@@ -193,6 +193,7 @@ body {
 }
 
 .popular-title {
+    color: #00518c;
     font-family: "Rubik", sans-serif;
     text-align: center;
     font-size: 3.2rem;
@@ -205,10 +206,15 @@ body {
 }
 
 .popular-number {
-    font-size: 8.6rem;
-    font-weight: 500;
-    color: #4d8cba;
+    font-family: "Rubik", sans-serif;
+    font-size: 9.6rem;
+    font-weight: 600;
+    color: dodgerblue;
     margin-bottom: 1.2rem;
+}
+
+.heading-pop {
+    font-size: 2.2rem;
 }
 
 .popular-description {
@@ -252,4 +258,21 @@ body {
     margin-right: -1.6rem;
     border: 3px solid #b3cee1;
     width: 35%;
+}
+
+.location-title {
+    text-transform: uppercase;
+    color: #00518c;
+    font-family: "Rubik", sans-serif;
+    text-align: center;
+    font-size: 3.2rem;
+    font-weight: bold;
+}
+
+.location-arrow {
+    text-align: center;
+    font-size: 4.2rem;
+    color: #00518c;
+    font-weight: 600;
+    height: 6rem;
 }
